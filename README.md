@@ -16,3 +16,4 @@ Ligweight device
 Integrated itself
 Possibility to charge by USB
 Getting infromation from Galileo systems
+Met standards of medical device
